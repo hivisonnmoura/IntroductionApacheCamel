@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+camel.log
+gradle/
+out/
+src/test/
